@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, PanResponder, StyleSheet, Platform } from 'react-native';
-import { Svg, G, Path } from '../config';
+import Svg, { G, Path } from 'react-native-svg';
 import Pen from '../tools/pen';
 import Point from '../tools/point';
 
